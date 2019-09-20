@@ -1,3 +1,53 @@
 html, body {
     background-color: #D6DEFF;
 }
+
+.cloud {
+    position: relative;
+}
+
+.cloud-one {
+    top: 200px;
+    left: 10%;
+}
+
+.cloud-two {
+    left: 50%;
+}
+
+.cloud-three {
+    top: 210px;
+    left: 75%;
+}
+
+.circle {
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.circle-one {
+    height: 100px;
+    width: 100px;
+    left: 40px;
+}
+
+.circle-two {
+    height: 60px;
+    width: 100px;
+    top: 40px;
+}
+
+.circle-three {
+    height: 80px;
+    width: 100px;
+    top: 20px;
+    left: 100px;
+}
+
+.circle-four {
+    height: 50px;
+    width: 100px;
+    top: 50px;
+    left: 150px;
+}
