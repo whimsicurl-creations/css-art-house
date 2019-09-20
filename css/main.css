@@ -163,3 +163,48 @@ html, body {
     top: 50%;
     left: 10%;
 }
+
+.window {
+    background-color: #FBF9FC;
+    opacity: .8;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 45px;
+    border: 3px solid gray;
+}
+
+.window-round {
+    border-radius: 50%;
+    left: 30%;
+}
+
+.pane {
+    width: 102%;
+    height: 5px;
+    background-color: #979797;
+    position: absolute;
+    top: 50%;
+}
+.pane-vertical {
+    transform: rotate(90deg);
+    top: 47%;
+}
+
+.square-one {
+    left: 20%;
+}
+
+.square-two {
+    left: 60%;
+}
+
+.square-three {
+    left: 20%;
+    top: 50%;
+}
+
+.square-four {
+    left: 60%;
+    top: 50%;
+}
